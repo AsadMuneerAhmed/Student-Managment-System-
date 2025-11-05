@@ -1,2 +1,2 @@
 # Student-Managment-System-
-Student Management System (Java, Swing) A desktop-based Student Management System built using Java (Swing GUI) on Notepad. It allows users to manage students, courses, fees, and timetables efficiently with add, update, delete, and view functionalities. Designed with a clean and modern interface for smooth navigation and record handling.
+Student Management System (Java, Swing) A desktop-based Student Management System built using Java (Swing GUI) on Notepad. It allows users to manage students, courses, fees, and timetables efficiently with add, update, delete, and view functionalities. Designed with a clean and modern interface for smooth navigation and record handling in teporary memory by using Stack data structure .
